@@ -3,9 +3,9 @@ import tweepy, re, json
 
 user_info = {
   'consumer_key':         '6XkfEIEcwahq6ri2JK9pGN1JZ',
-  'consumer_secret':      'vaTYsqjrSEkZY8gFYhlyDGwrD9DMHFBGB92cWk8EZzr8ijFnIL',
+  'consumer_secret':      '//',
   'access_token':         '431822362-H5DczRp0yPYuyLMdTV0djKBaTBFQQRpEBimFV8Ym',
-  'access_token_secret':  'jS1pXL3MndVM32pfgC4oHhwOv5ZkZatbYtoZMLfjO3u2p'
+  'access_token_secret':  '//'
 }
 
 auth = tweepy.OAuthHandler(user_info['consumer_key'], user_info['consumer_secret'])
